@@ -1,4 +1,10 @@
-*
+#IGNORE
+/*
 
+#WHITELIST
 !.gitignore
 !KeePass/
+
+# Ignore all files
+**/.DS_Store
+**/~*

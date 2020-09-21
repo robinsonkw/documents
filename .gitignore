@@ -6,5 +6,5 @@
 !KeePass/
 
 # Ignore all files
-**/.DS_Store  # MacOS finder file
-**/~*         # Win temp file tag
+*/.DS_Store  # MacOS finder file
+*/~*         # Win temp file tag

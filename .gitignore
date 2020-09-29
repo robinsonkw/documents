@@ -4,6 +4,7 @@
 #WHITELIST
 !.gitignore
 !KeePass/
+!~/.vimrc
 
 # Ignore all files
 #*/.DS_Store  # MacOS finder file

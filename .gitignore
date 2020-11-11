@@ -5,7 +5,7 @@
 !.gitignore
 !KeePass/
 !~/.vimrc
-
+!bookmarks/
 # Ignore all files
 #*/.DS_Store  # MacOS finder file
 #*/~*         # Win temp file tag

@@ -1,11 +1,20 @@
 #IGNORE
+## These are other repositories
+
 /*
+cyber/OSCAL
+personal/git-scrivener
+personal/python/dynamodb-tictactoe-example-app
+personal/resume
 
 #WHITELIST
 !.gitignore
 !KeePass/
 !~/.vimrc
 !bookmarks/
+!programs/
+!personal/
+!cyber/
 # Ignore all files
 #*/.DS_Store  # MacOS finder file
 #*/~*         # Win temp file tag
